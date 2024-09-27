@@ -8,6 +8,4 @@ function areaQuadrado(lado) {
 
 }
  console.log(areaQuadrado(6))
-
-     
- }
+ 
