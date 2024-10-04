@@ -15,4 +15,4 @@
 // let nome= parseInt(prompt(1+2));
 // document.write()
 
-let states=["pr","rs","sp","rj","ba","ac","go","sc","mt","ce","al"]
+let states=["ac","al","ap","am","ba","ce","df","es","go","ma","mt","ms","mg","pa","pb","pr","pe","pi","rj","rn","rs","ro","rr","sc","sp","se","to"]
