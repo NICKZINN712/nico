@@ -24,3 +24,9 @@ let estados=["ac","al","ap","am","ba","ce","df","es","go","ma","mt","ms","mg","p
 //     i++;
 
 // }
+for (let j = 0; j < estados.length; j++) {
+
+    console.log(j);
+    console.log(estados[j]);
+    
+}
