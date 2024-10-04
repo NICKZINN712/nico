@@ -28,7 +28,7 @@ let estados=["ac","al","ap","am","ba","ce","df","es","go","ma","mt","ms","mg","p
 //     console.log(j);
 //     console.log(estados[j]);
     // 
-}
+
 let idade=18;
 if (idade>17) {
     console.log("pode dirigir");
