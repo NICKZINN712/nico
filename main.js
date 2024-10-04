@@ -1,16 +1,18 @@
 
 
-function areQuadrado(lado) {
-    return lado**2
-}
-console.log (areQuadrado(2,2) );
+// function areQuadrado(lado) {
+//     return lado**2
+// }
+// console.log (areQuadrado(2,2) );
 
-let media=function (num1,num2,num3,){
-    return (num1+num2+num3)/num3;
+// let media=function (num1,num2,num3,){
+//     return (num1+num2+num3)/num3;
 
-}
-console.log(media(1,2,3));
+// }
+// console.log(media(1,2,3));
 
 
-let nome= parseInt(prompt(1+2));
-document.write
+// let nome= parseInt(prompt(1+2));
+// document.write()
+
+let states=["pr","rs","sp","rj","ba","ac","go","sc","mt","ce","al"]
